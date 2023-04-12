@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tanjaaino/carapp/static/css/main.0597ef04.css",
+    "main.js": "/tanjaaino/carapp/static/js/main.eb318c09.js",
+    "static/js/787.22ea9dd3.chunk.js": "/tanjaaino/carapp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/tanjaaino/carapp/index.html",
+    "main.0597ef04.css.map": "/tanjaaino/carapp/static/css/main.0597ef04.css.map",
+    "main.eb318c09.js.map": "/tanjaaino/carapp/static/js/main.eb318c09.js.map",
+    "787.22ea9dd3.chunk.js.map": "/tanjaaino/carapp/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.eb318c09.js"
+  ]
+}
