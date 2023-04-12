@@ -1,7 +1,7 @@
 {
   "name": "carapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/tanjaaino/carapp",
+  "homepage": "https://tanjaaino.github.io/carapp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
